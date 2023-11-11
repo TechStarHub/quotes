@@ -1,8 +1,32 @@
-# React + Vite
+<h1 align="center">Quotes Frontend</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Technologies Used 🛠️
+- React
+  
+## Figma Design 🎨
 
-Currently, two official plugins are available:
+Try to follow the design as much as possible. If you want to add your own style, you can do so.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Figma Design Link 👇
+
+https://www.figma.com/file/uyHUXQbqmpfEUvKK8faVvo/random-quotes?type=design&mode=design&t=fF5NyQFHImw0Z6wv-1
+
+
+## Pre-requisites ✅
+
+- Node.js must be installed on your machine.
+- JavaScript knowledge is required.
+- Basic knowledge of React is required.
+
+## Installation 🛠️
+If you want to run this project locally, follow the below steps:
+
+1. Installation
+ ```
+ cd frontend
+ npm install
+ ```
+2. Run
+```
+npm run dev
+```
