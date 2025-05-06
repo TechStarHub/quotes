@@ -1,8 +1,6 @@
-import React from 'react'
-
 
 import './App.css'
-import Main from './Components/Main'
+import Home from './pages/Home.jsx';
 
 
 function App() {
@@ -10,7 +8,7 @@ function App() {
   return (
     <>
       <div className="App">
-        <Main/>
+        <Home />
       </div>
     </>
   )
